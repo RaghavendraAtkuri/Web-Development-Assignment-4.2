@@ -1,0 +1,13 @@
+div {
+	margin: 25px;
+	padding-left: 15px;
+	padding-top: 10px;
+	border: 3px double blue;
+    background-color: burlywood;
+	box-sizing: content-box;
+	height: 125px;
+    width: 275px;
+	position: fixed;
+	top: 25%;
+    left: 35%;
+}
